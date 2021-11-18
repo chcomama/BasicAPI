@@ -2,19 +2,19 @@
     {
         "title":"My Cactus1",
         "subtitle":  "Mammillaria",
-        "image_url":"https://media.istockphoto.com/photos/echinopsis-chamaecereus-silvestrii-picture-id1148769310?k=20&m=1148769310&s=612x612&w=0&h=ysazTpFXPkhDahhBUYZhAEgEWvR1D9QzmwwNMk9COy8=",
+        "image_url":"https://github.com/chcomama/BasicAPI/blob/main/mam.jpg?raw=true",
         "detail":"“แคคตัสแมมมิลลาเรีย (Mammillaria)” ชื่อเรียกเก๋ๆ นี้มาจากภาษาละตินว่า Mammilla ซึ่งแปลว่า เนินหนาม ในบ้านเราจะเรียกสั้นๆ ว่า “แมม” หรือ “แมมมิลลาเรีย” มีถิ่นกำเนิดมาจากทางตะวันตกเฉียงใต้ของสหรัฐอเมริกา แม็กซิโก และในประเทศแถบหมู่เกาะแคริเบียน แมมมิลลาเรียมีหลากหลายสายพันธุ์มาก มากจนนับไม่ถ้วนกันเลยทีเดียวครับ เอกลักษณ์ของเจ้าแมมคือ มีหัวจุกที่เป็นตุ่มๆ เรียงรายอย่างเป็นระเบียบอยู่รอบลำต้น อาจมีหนาม ขนแข็งๆ หรือขนนุ่มๆ ที่ส่วนปลายของตุ่ม แล้วแต่สายพันธุ์ สายพันธุ์ส่วนใหญ่ลำต้นจะมีขนาดเล็กตะมุตะมิน่ารัก แต่บางต้นก็สามารถเติบโตและมีขนาดใหญ่เหมือนแคคตัสสายพันธุ์อื่นๆ ได้ครับ "
     },
     {
         "title":"My Cactus2",
         "subtitle":"Gymnocalycium",
-        "image_url": "https://media.istockphoto.com/photos/gymnocalycium-cactus-flower-picture-id1148234841?k=20&m=1148234841&s=612x612&w=0&h=Ijxq1aTwYyeXMisd1xzatf9dSHZPPEKgUjsmBBYOA94=",
+        "image_url": "https://github.com/chcomama/BasicAPI/blob/main/gymno.jpg?raw=true",
         "detail":"คำว่า Gymnocalycium หมายถึง กลีบเลี้ยงเปลือย มีถิ่นกำเหนิดอยู่ในทวีปแอฟริกาใต้ แคคตัส สกุลนี้ เติบโตเร็วเลี้ยงง่าย ส่วนใหญ่มีลักษณะลำต้นกลมหรือแป้นๆ สันหนามแยกออกจากกันได้อย่างเด่นชัด มีลำต้นเดี่ยวและสามารถแตกหน่อได้จากตุ่มหนาม ดอกออกบริเวณตุ่มหนามที่ยอดมักออกดอกช่วงฤดูร้อน แม้อยู่ในที่แสงแดดไม่จัดก็เจริญเติบโตได้ดี"
     },
     {
         "title": "My Cactus3",
         "subtitle":"Astrophytum",
-        "image_url":"https://media.istockphoto.com/photos/row-of-echinopsis-cactus-flower-in-a-black-pot-and-selling-at-the-picture-id1226550081?k=20&m=1226550081&s=612x612&w=0&h=L54oXGgpZ-j9RThZ1KMbeT9t5jq6-nCFX2UKIDKV4Vc=",
+        "image_url":"https://github.com/chcomama/BasicAPI/blob/main/astro.jpg?raw=true",
         "detail":"แอสโตรไฟตัม (Astrophytum) เป็นสกุลของแคคตัสที่มีถิ่นกำเนิดอยู่ในสหรัฐอเมริกา รัฐเท็กซัส และประเทศเม็กซิโก แต่ได้รับการพัฒนาสายพันธุ์อย่างจริงจังในประเทศญี่ปุ่น ซึ่งในญี่ปุ่นจะเรียกว่า Kabuto (คาบูโตะ)「兜」 แปลว่าหมวก หรือหมวกซามูไรของญี่ปุ่น โดยสายพันธุ์แอสโตรไฟตัมแบ่งเป็น 6 ชนิด"
     }
   
